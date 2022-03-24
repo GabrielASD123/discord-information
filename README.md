@@ -1,0 +1,2 @@
+# discord-information
+instruções rápidas
